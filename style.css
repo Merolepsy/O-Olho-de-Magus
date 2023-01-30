@@ -1,0 +1,35 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    background:white;
+    background-image:url(imagens/roll_edited.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 4.5%;
+    display: block;
+
+    
+}
+.hero{
+    color: rgb(37, 20, 20);
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+.card{
+    box-sizing: border-box;
+}
+.card-1{
+    padding-top: 83px;
+    margin-left: 15%;
+    margin-right: 55%;
+    float: left;
+}
+.imagem-1{
+    float: right;
+    margin-right: 17%;
+    margin-top: -20%;
+}
+.card h2{
+    text-transform: uppercase;
+}
